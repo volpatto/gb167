@@ -1,4 +1,4 @@
-# GB 167 -- Fenômenos de Transporte II
+# GB 167 - Fenômenos de Transporte II
 
 Este repositório é dedicado ao armazenamento das apresentações dos trabalhos finais dos discentes da disciplina oferecida pelo programa de pós-graduação em Modelagem Computacional do LNCC.
 
